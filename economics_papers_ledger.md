@@ -54,4 +54,5 @@ Task Expansion with Generative AI: Experimental Evidence on Middle-Skilled, Earl
 AI and the Boundary of the Firm: Evidence from Radiology
 Saving for the Machines
 Who Can Produce What? Firm Capabilities and Product Entry
+The Supply of Expertise: New Technologies, New Skills, and Worker Impacts
 Thin Markets, Thick Subsidies: Local Competition and the Incidence of Heat Pump Grants
