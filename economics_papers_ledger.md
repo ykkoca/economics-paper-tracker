@@ -62,3 +62,4 @@ Tariff Staggering
 The Occupational Ladder: Implications for Life-Cycle Wage Dynamics
 Early Decisions, Long-Lasting Consequences: The Macroeconomics of School Tracking
 Manufacturing Renaissance Meets Time-Inconsistent Tariffs
+The Macroeconomic Effect of AI: Sizing the Software Engineering Channel
