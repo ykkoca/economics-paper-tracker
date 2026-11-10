@@ -64,3 +64,4 @@ Early Decisions, Long-Lasting Consequences: The Macroeconomics of School Trackin
 Manufacturing Renaissance Meets Time-Inconsistent Tariffs
 The Macroeconomic Effect of AI: Sizing the Software Engineering Channel
 Working Longer Under Strain: Retirement Reforms and Physical Job Demands
+Oligopoly with Mixed Bundling
