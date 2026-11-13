@@ -67,3 +67,4 @@ Working Longer Under Strain: Retirement Reforms and Physical Job Demands
 Oligopoly with Mixed Bundling
 Cross-Border Infrastructure Finance for EMDEs: Patterns, Drivers, and Regulatory Barriers
 The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity
+The Vanishing Advantage of Specialization: AI, Knowledge Utilization, and the Boundary of the Firm
