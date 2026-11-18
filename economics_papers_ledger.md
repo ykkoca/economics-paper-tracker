@@ -71,3 +71,4 @@ The Vanishing Advantage of Specialization: AI, Knowledge Utilization, and the Bo
 How is Labor Demand Changing as AI Improves? New Global Evidence
 Remote Work and Monetary Policy
 Creative Destruction with AI versus AI's Destruction of Creativity
+Monopsonistic Search
