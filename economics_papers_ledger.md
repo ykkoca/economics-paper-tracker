@@ -72,3 +72,4 @@ How is Labor Demand Changing as AI Improves? New Global Evidence
 Remote Work and Monetary Policy
 Creative Destruction with AI versus AI's Destruction of Creativity
 Monopsonistic Search
+Does the Stock Market Price Operational Flexibility?
