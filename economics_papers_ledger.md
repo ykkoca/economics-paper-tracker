@@ -75,3 +75,4 @@ Monopsonistic Search
 Does the Stock Market Price Operational Flexibility?
 Trade Policy for National Security: Dependence, Scarcity Rents, and Capacity
 Intermediaries, Quality Incentives, and Upgrading along Supply Chains
+The Third Great Transition: From Human-Bound to Autonomous AI-Driven Innovation
